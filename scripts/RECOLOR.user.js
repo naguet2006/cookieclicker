@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         RECOLOR
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.2
 // @description  let him cook!
 // @author       porc
 // @match        https://orteil.dashnet.org/cookieclicker/

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CC *10 market profit
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  let him cook!
 // @author       porc
 // @match        https://orteil.dashnet.org/cookieclicker/

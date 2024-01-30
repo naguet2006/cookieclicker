@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CC auto golden cookie clicker
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.1
 // @description  let him cook!
 // @author       porc
 // @match        https://orteil.dashnet.org/cookieclicker/
