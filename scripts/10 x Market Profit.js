@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         CC *10 market profit
+// @name         10 x Market Profit
 // @namespace    http://tampermonkey.net/
 // @version      0.4
 // @description  let him cook!

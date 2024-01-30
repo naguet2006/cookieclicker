@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         RECOLOR
+// @name         Recolor
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  let him cook!

@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         saveCookies
+// @name         Auto Save Cookies
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  let him cook!

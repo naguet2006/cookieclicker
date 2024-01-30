@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         CC auto buyer
+// @name         Auto Upgrade and Building Buyer
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  let him cook!

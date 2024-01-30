@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         CC auto golden cookie clicker
+// @name         Auto Golden Clicker
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  let him cook!
