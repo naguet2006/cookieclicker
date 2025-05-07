@@ -2,7 +2,7 @@
 // @name         auto buyer
 // @namespace    http://tampermonkey.net/
 // @version      0.5
-// @description  buys you upgrades and buildings, adds a button under the store title
+// @description  buys you upgrades and buildings, adds a button under the store title.
 // @author       porc
 // @match        https://orteil.dashnet.org/cookieclicker/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dashnet.org

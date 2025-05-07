@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         last upgrades
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  shows you in console last 5 bought upgrades, to make sure you put the expensive ones in the ascension
+// @version      0.2
+// @description  shows you in console last 5 bought upgrades, to make sure you put the expensive ones in the ascension.
 // @author       You
 // @match        https://orteil.dashnet.org/cookieclicker/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dashnet.org
