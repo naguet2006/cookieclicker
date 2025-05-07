@@ -14,11 +14,11 @@ A collection of scripts to automate and enhance your Cookie Clicker experience.
 
 3. **automatic stocks**  
    - Automatically buys stocks when cheap (< $3) and sells when expensive (> $30)
-   - Toggle button appears to the right of brokers
+   - Toggle button appears to the right of the "hire brokers"
 
 4. **imperfectCookie.png**  
    - Replaces the default cookie with an "imperfect" version found in game files
-   - If this loads, all other scripts are successfully loaded
+   - If this loads, means all other scripts have potentialy loaded
 
 5. **last upgrades**  
    - Displays the last 5 bought upgrades in console
@@ -31,7 +31,7 @@ A collection of scripts to automate and enhance your Cookie Clicker experience.
 
 The `saveCookies.bat` file provides automatic save management:
 
-- Monitors your Downloads folder for new save files (looking for `porcBakery*`)
+- Monitors your Downloads folder for new save files (looking for `*Bakery.txt`)
 - Moves them to a `./saveCookies/` folder with timestamped filenames
 - Only keeps the **50 most recent saves** (automatically deletes older ones)
 - Commits changes to Git every ~16.6 minutes (1000 seconds)
